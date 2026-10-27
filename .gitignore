@@ -74,3 +74,6 @@ tasks/
 scripts/process_ideas_v3.py
 docs/ideas_v3_verification/
 plans/
+
+# code-review-graph database (built per session)
+.code-review-graph/
